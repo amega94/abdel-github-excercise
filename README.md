@@ -2,4 +2,4 @@
 
 ## This is a repo created to learn github properly
 
-### Thanks
+### Thanks and Bye
