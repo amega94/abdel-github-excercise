@@ -1,2 +1,5 @@
 # abdel-github-excercise
-Tutorial with Nirav
+
+## This is a repo created to learn github properly
+
+### Thanks
